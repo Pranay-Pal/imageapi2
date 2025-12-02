@@ -1,0 +1,5 @@
+{
+  "name": "BananaToon - Gemini Image Cartoonifier",
+  "description": "Upload any photo and instantly transform it into a cartoon style illustration using the Google Gemini Nano Banana (Flash Image) model.",
+  "requestFramePermissions": []
+}
